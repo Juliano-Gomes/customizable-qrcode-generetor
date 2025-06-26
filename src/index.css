@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@tailwind base;
+
+/*Custom Tailwind font kkkk*/
+.text-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-montserrat-w {
+    font-weight: 500;
+}
+
+.text-roboto {
+    font-family: 'Roboto', sans-serif;
+}
